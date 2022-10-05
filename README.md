@@ -1,7 +1,7 @@
 # DONATE SOFTWARE to 00:59
 
 If you do not need your project any more you can donate it to us.
-You have only to transfer the github repository to [00-59](https://github.com/00-59).
+You have only to transfer the github repository to [00-59](https://github.com/00-59). The software will become better maintained.
 
 **Bring it back to life!**
 Simply transfer it to [00-59](https://github.com/00-59).
