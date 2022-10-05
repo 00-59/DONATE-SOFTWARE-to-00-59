@@ -1,4 +1,4 @@
-# DONATE SOFTWARE TO 00:59
+# DONATE SOFTWARE to 00:59
 
 If you do not need your project any more you can donate it to us.
 You have only to transfer the github repository to [00-59](https://github.com/00-59).
