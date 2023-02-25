@@ -6,6 +6,5 @@ You have only to transfer the git repository to us. The software will become bet
 **Bring it back to life!**
 Simply transfer it to us.
 Open a new issue for more details.
-Source code not from github is also accepted.
 
 For even more details, leave a message at https://3.00-59.com/en/send-a-message?sd=copyright
